@@ -25,5 +25,5 @@
 
 
 ## Link
-[![Generic badge](https://img.shields.io/badge/BLOG-HEXO-<COLOR>.svg)](https://www.wucheng.work/)
+[![Generic badge](https://img.shields.io/badge/HEXO-BLOG-<COLOR>.svg?style=for-the-badge)](https://www.wucheng.work/)
 
